@@ -1,8 +1,8 @@
-### Hi there 👋
-
-[![Ikjun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=no-ikjun&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/no-ikjun/no-ikjun)
+## Hi there 👋
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and some of the technologies I love working with.
+
+[![Ikjun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=no-ikjun&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/no-ikjun/no-ikjun)
 
 ## 🛠️ Tech Stack
 
