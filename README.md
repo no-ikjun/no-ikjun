@@ -41,3 +41,11 @@ Here are some of the technologies and tools I work with:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+
+## 📫 Contact
+
+If you have any questions or just want to say hi, don't hesitate to reach out!
+
+- Email: [choiikjun1101@gmail.com](mailto:choiikjun1101@gmail.com)
+
+Happy coding! 🚀
