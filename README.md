@@ -46,6 +46,6 @@ Here are some of the technologies and tools I work with:
 
 If you have any questions or just want to say hi, don't hesitate to reach out!
 
-- Email: [choiikjun1101@gmail.com](mailto:choiikjun1101@gmail.com)
+[![Email](https://img.shields.io/badge/-choiikjun1101@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:choiikjun1101@gmail.com)
 
 Happy coding! 🚀
