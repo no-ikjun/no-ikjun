@@ -12,7 +12,7 @@ Here are some of the technologies and tools I work with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
