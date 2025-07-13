@@ -26,6 +26,7 @@ Here are some of the technologies and tools I work with:
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat-square)
 
 ### Databases
