@@ -2,7 +2,26 @@
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and some of the technologies I love working with.
 
-[![Ikjun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=no-ikjun&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/no-ikjun/no-ikjun)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/no-ikjun">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=no-ikjun&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&card_width=420"
+          alt="Ikjun's GitHub stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-ikjun&layout=compact&langs_count=8&hide_border=true&card_width=360"
+          alt="Top Langs"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -45,8 +64,6 @@ Here are some of the technologies and tools I work with:
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no-ikjun)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
