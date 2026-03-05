@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here you'll find my projects, contributions, and s
     <td>
       <a href="https://github.com/no-ikjun">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=no-ikjun&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&card_width=420"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=no-ikjun&show_icons=true&include_all_commits=true&hide_border=true&card_width=420"
           alt="Ikjun's GitHub stats"
         />
       </a>
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find my projects, contributions, and s
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-ikjun&layout=compact&langs_count=8&hide_border=true&card_width=360"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=no-ikjun&layout=compact&langs_count=8&hide_border=true&card_width=360"
           alt="Top Langs"
         />
       </a>
