@@ -2,24 +2,24 @@
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and some of the technologies I love working with.
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=no-ikjun&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=no-ikjun&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/no-ikjun">
         <img
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=no-ikjun&show_icons=true&include_all_commits=true&hide_border=true&card_width=420"
-          alt="Ikjun's GitHub stats"
-        />
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=no-ikjun&show_icons=true&include_all_commits=true&hide_border=true&card_width=420"
+  alt="Ikjun's GitHub stats"
+/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=no-ikjun&layout=compact&langs_count=8&hide_border=true&card_width=360"
-          alt="Top Langs"
-        />
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=no-ikjun&layout=compact&langs_count=8&hide_border=true&card_width=360"
+  alt="Top Langs"
+/>
       </a>
     </td>
   </tr>
