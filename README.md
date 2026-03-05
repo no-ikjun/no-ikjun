@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and some of the technologies I love working with.
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=no-ikjun)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=no-ikjun&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <table>
   <tr>
     <td>
