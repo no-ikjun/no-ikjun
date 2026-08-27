@@ -2,22 +2,20 @@
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and some of the technologies I love working with.
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
+    <td>
       <a href="https://github.com/no-ikjun">
         <img
           src="./profile/stats.svg"
-          width="100%"
           alt="Ikjun's GitHub stats"
         />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td>
       <a href="https://github.com/stats-organization/github-readme-stats">
         <img
           src="./profile/top-langs.svg"
-          width="100%"
           alt="Top Languages"
         />
       </a>
