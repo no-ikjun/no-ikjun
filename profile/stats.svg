@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">최익준&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 2446, Total PRs: 393, Total Issues: 91, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 2447, Total PRs: 393, Total Issues: 91, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.30972654520224;
+        stroke-dashoffset: 91.30440001744356;
       }
     }
   
