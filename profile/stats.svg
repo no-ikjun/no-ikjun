@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ikjun Choi&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 2650, Total PRs: 448, Total Issues: 97, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 2649, Total PRs: 448, Total Issues: 97, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.57432603130839;
+        stroke-dashoffset: 89.79008194922046;
       }
     }
   
